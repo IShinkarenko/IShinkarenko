@@ -12,7 +12,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=IShinkarenko&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IShinkarenko&show_icons=true&locale=en&layout=compact" alt="IShinkarenko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IShinkarenko&show_icons=true&locale=en" alt="IShinkarenko" /></p>
 
