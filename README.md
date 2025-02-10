@@ -19,6 +19,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishinkarenko&show_icons=true&locale=en&include_all_commits=true" alt="ishinkarenko" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishinkarenko&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishinkarenko&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishinkarenko&" alt="ishinkarenko" /></p>
 
